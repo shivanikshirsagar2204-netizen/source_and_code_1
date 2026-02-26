@@ -1,1 +1,12 @@
 shivani kshirsagar
+
+
+
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/shivanikshirsagar2204-netizen/source_and_code_1.git
+git push -u origin main
+
+I am a software Engineer
+"practice makes man perfect"
