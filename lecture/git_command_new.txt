@@ -13,3 +13,4 @@ branch
 3.git blame filepath
 4.git show commitid
 5.git reset 
+nmvhfv
