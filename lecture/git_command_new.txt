@@ -1,3 +1,9 @@
 git github advance commands
 
 1.git stash
+
+
+
+file changes added here 
+
+branch
