@@ -1,3 +1,0 @@
-git github advance command 
-
-1. git stash
